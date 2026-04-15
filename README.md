@@ -27,6 +27,8 @@ This project contains the Python notebook **`Devtown_Bootcamp_Data_science.ipynb
 Data-Science-Bootcamp-Project/
 │── Devtown_Bootcamp_Data_science.ipynb   # Main notebook
 │── README.md                             # Project documentation
+│── LICESE                                # LICENSE documentation
+│── Titanic Dataset.csv                   # Dataset
 ```
 
 ---
@@ -59,18 +61,33 @@ Data-Science-Bootcamp-Project/
 ---
 
 ## ⭐ Contributing
+
 - Contributions are welcome! Feel free to fork this repository, open issues, or submit pull requests.
 
 ---
 
-## 📬 Connect with Me
-- GitHub Profile: Ashish Raj (github.com in Bing)
+## 🤝 Connect With Me
 
-- LinkedIn Profile: Ashish Raj (linkedin.com in Bing)
+If you found this project useful, interesting, or inspiring — let's connect!
+
+| Platform | Link |
+|---|---|
+| 💼 LinkedIn | [Ashish Raj](https://www.linkedin.com/in/ashish-raj-ashishraj/) |
+| 🐙 GitHub | [Ashish Raj](https://github.com/ashishraj-hub)  |
+
+---
+
+### ⭐ Support This Project
+
+If this README or project helped you:
+- **Star** ⭐ this repository
+- **Fork** 🍴 it and build your own version
+- **Share** it with someone who is learning Power BI
 
 ---
 
 ## 📜 License
-This project is licensed under the MIT License – see the [Looks like the result wasn't safe to show. Let's switch things up and try something else!] file for details.
+
+- This project is licensed under the MIT License – see the [Looks like the result wasn't safe to show. Let's switch things up and try something else!] file for details.
 
 ---

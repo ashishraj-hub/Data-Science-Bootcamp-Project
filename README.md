@@ -34,6 +34,7 @@ Data-Science-Bootcamp-Project/
 ---
 
 ## 📈 Key Features
+
 - Data preprocessing and cleaning
 - Exploratory Data Analysis (EDA)
 - Visualization of trends and patterns
@@ -82,7 +83,7 @@ If you found this project useful, interesting, or inspiring — let's connect!
 If this README or project helped you:
 - **Star** ⭐ this repository
 - **Fork** 🍴 it and build your own version
-- **Share** it with someone who is Data Science or AI/ML
+- **Share** it with someone who is passionate about Data Science or AI/ML
 
 ---
 
